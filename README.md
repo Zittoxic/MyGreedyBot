@@ -1,0 +1,2 @@
+# MyGreedyBot
+Greedy trading bot
